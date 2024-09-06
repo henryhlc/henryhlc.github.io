@@ -9,7 +9,7 @@ problems on platforms such as [leetcode](https://leetcode.com) and
 [codeforces](https://codeforces.com/).
 
 Binary search over a sequence is conceptually simple to describe. To find an
-target element in an sorted array, you find the element at the middle check if
+target element in an sorted array, you find the element at the middle, check if
 you have found the target, if not, then recursively check the half before the
 middle or the half after the middle.
 
